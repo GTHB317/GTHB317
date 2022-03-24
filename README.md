@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Qile Yang
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently learning mainly R, and Python.
+- 💞️ I’m looking for a bioinformatics internship 
