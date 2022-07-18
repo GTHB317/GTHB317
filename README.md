@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Qile Yang
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning mainly R, and Python.
+- 🌱 I’m currently learning mainly Julia but my heart is with R and maybe Python
